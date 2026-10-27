@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**DavidAD21/DavidAD21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy David Sevillano 👋
 
-Here are some ideas to get you started:
+### Full Stack Developer | Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy desarrollador de software de Lima, Perú, con experiencia en desarrollo de aplicaciones web, automatización de procesos y sistemas empresariales.
+
+## 🛠️ Tecnologías
+
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+
+**Backend:** Node.js, Express, Python, Flask, PHP
+
+**Bases de datos:** MySQL, Oracle SQL
+
+**Herramientas:** Git, GitHub, WordPress, Excel, Power BI
+
+## 💻 Experiencia
+
+- Desarrollo de sistemas de inventarios y ventas.
+- Implementación de plataformas de gestión documental.
+- Automatización de atención al cliente mediante chatbots.
+- Desarrollo de páginas web corporativas y soluciones empresariales.
+
+## 🚀 Proyectos destacados
+
+Próximamente publicaré proyectos documentados con capturas, tecnologías utilizadas y demostraciones.
+
+## 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/davidsevillano1/)
